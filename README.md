@@ -1,8 +1,24 @@
-# React + Vite
+# React Dataflow Project with Redux Toolkit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates a basic setup of a React application using Redux Toolkit for state management. It includes a simple dataflow example to showcase Redux Toolkit's capabilities.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Redux Toolkit**: Modern Redux setup with simplified syntax and improved performance.
+- **React**: Frontend library for building user interfaces.
+- **Dataflow Example**: Demonstrates dataflow management using Redux Toolkit.
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- Node.js & npm (or yarn)
+
+## Installation
+
+Clone the repository and install dependencies.
+
+```bash
+git clone <repository-url>
+cd react-dataflow-project
+npm install   # or `yarn install`
